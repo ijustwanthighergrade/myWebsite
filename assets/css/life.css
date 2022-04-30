@@ -1,0 +1,22 @@
+.map{
+    margin-top: 150px;
+    margin-left: 15%;
+    float: left;
+}
+fieldset{
+    margin-top: 150px;
+    float: right;
+    margin-right: 15%;
+    width: 10%;
+    height: 450px;
+    font-size: 20px;
+    color: aliceblue;
+    padding: 30px;
+
+}
+legend{
+    font-size: 50px;
+}
+.buttomarea{
+    margin-left: 43%;
+}

@@ -1,0 +1,44 @@
+.textin{
+    animation: opacity 0.5s ;
+    color: #f1f1f1;
+    font-size: 20px;
+    float: right;
+    width: 45%;
+    margin-right: 10%;
+
+}
+.textin1{
+    animation: opacity 0.5s ;
+    color: #f1f1f1;
+    font-size: 20px;
+    float: left;
+    width: 30%;
+    margin-left: 10%;
+
+}
+.sti{
+    
+    color: #4d4d4d;
+    font-size: 50px;
+    font-weight: bold;
+    border-left: #f1f1f1 3px solid;
+    background-color: #f1f1f1;
+}
+.sub{
+    color: #f1f1f1;
+    font-size: 40px;
+    font-weight: bold;
+    border-left: #f1f1f1 3px solid;
+}
+.video{
+    font-size: 20px;
+    color: #f1f1f1;
+}
+a{
+    text-decoration: double;
+    color: rgb(174, 212, 255);
+    font-weight: bolder;
+}
+p{
+    text-indent: 40px;
+}
